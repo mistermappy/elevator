@@ -1,4 +1,4 @@
-var Passenger = require('./passengers.js')
+var Passenger = require('./passenger.js')
 
 var EventEmitter = require('events')
 
